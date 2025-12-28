@@ -14,4 +14,5 @@ Add your own entry below this comment and open a pull request via the instructio
 
 - [februarysea](https://github.com/februarysea)
 - [LuHaotian-UCL](https://github.com/LuHaotian-UCL)
+- [peter-kinger](https://github.com/peter-kinger)
 - [jingmiao7](https://github.com/jingmiao7)
