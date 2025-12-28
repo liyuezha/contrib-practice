@@ -17,3 +17,4 @@ Add your own entry below this comment and open a pull request via the instructio
 - [peter-kinger](https://github.com/peter-kinger)
 - [jingmiao7](https://github.com/jingmiao7)
 - [LeonChen7](https://github.com/LeonChen7)
+- [Mallory3125](https://github.com/Mallory3125)
